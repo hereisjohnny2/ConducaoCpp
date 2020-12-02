@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/x86_64-linux-gnu/qt5",
+                "/usr/include/x86_64-linux-gnu/qt5/QtCore",
+                "${workspaceFolder}/libs/qcustomplot/src",
+                "${workspaceFolder}/libs/InterLin/src",
+                "/usr/include/x86_64-linux-gnu/qt5"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++-7",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
